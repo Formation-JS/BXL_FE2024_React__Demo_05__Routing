@@ -25,6 +25,8 @@ export default function ProductListPage() {
                     </li>
                 ))}
             </ul>
+
+        <Link to={'42'}>Produit en erreur</Link>
         </>
     );
 }

@@ -4,7 +4,7 @@ import HomePage from './routes/home.route';
 import ContactPage from './routes/contact.route';
 import NavBar from './layouts/nav-bar/nav-bar';
 import ProductListPage from './routes/product/product-list.route';
-import ProductDetailPage from './routes/product/product-detail.route';
+import ProductDetailPage from './routes/product/product-detail-v2.route';
 
 function App() {
 
