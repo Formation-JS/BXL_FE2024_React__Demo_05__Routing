@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "nom": "Smartphone Galaxy X200",
+    "categorie": "Téléphonie",
+    "prix": 699.99,
+    "devise": "EUR",
+    "stock": 25,
+    "description": "Écran AMOLED 6.5'', 128 Go, triple caméra"
+  },
+  {
+    "id": 2,
+    "nom": "Casque Bluetooth NoiseX",
+    "categorie": "Audio",
+    "prix": 129.90,
+    "devise": "EUR",
+    "stock": 80,
+    "description": "Casque sans fil avec réduction active du bruit"
+  },
+  {
+    "id": 3,
+    "nom": "Ordinateur portable ZenBook Pro",
+    "categorie": "Informatique",
+    "prix": 1499.00,
+    "devise": "EUR",
+    "stock": 12,
+    "description": "Intel i7, 16 Go RAM, SSD 1 To, écran 4K"
+  },
+  {
+    "id": 4,
+    "nom": "Montre connectée FitLife 3",
+    "categorie": "Wearables",
+    "prix": 199.50,
+    "devise": "EUR",
+    "stock": 40,
+    "description": "Suivi santé, GPS, étanche, autonomie 7 jours"
+  },
+  {
+    "id": 5,
+    "nom": "Caméra de sécurité HomeGuard 360",
+    "categorie": "Sécurité",
+    "prix": 89.99,
+    "devise": "EUR",
+    "stock": 60,
+    "description": "Vision nocturne, détection de mouvement, Wi-Fi"
+  }
+]

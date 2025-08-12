@@ -9,6 +9,9 @@ export default function NavBar() {
                     <Link to='/'>Accueil</Link>
                 </li>
                 <li>
+                    <Link to='/product'>Produits</Link>
+                </li>
+                <li>
                     <Link to='/contact' >Me contacter</Link>
                 </li>
             </ul>
